@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    I make things with computers, and sometimes they work. I'm a nerd from Seattle who writes lots of JavaScript because I need instant gratification. This is my portfolio of abandoned projects, wasted time, and trial evidence.
+    I make things with computers, and sometimes they work. I write lots of JavaScript because I need instant gratification. This is my portfolio of abandoned projects, wasted time, and trial evidence.
 </p>
 
 <a href="https://grantburry.com" target="_blank">
