@@ -12,9 +12,8 @@
 
 <a href="https://grantburry.com" target="_blank">
     <p align="center">
-        <img src="https://img.shields.io/badge/employability-low-red" alt="employability: low" />
+        <img src="https://img.shields.io/badge/tests-C---yellow" alt="tests: C-" />
         <img src="https://img.shields.io/badge/followers-fbi-blue" alt="followers: fbi" />
-        <img src="https://img.shields.io/badge/existence-in%20crisis-red" alt="existence: in crisis" />
         <img src="https://img.shields.io/badge/hotel-trivago-green" alt="hotel: trivago" />
     </p>
 </a>
